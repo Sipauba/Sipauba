@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title description">
+  <title id="title">Mateus Sipaúba</title>
+  <desc id="description">Banner azul escuro com conexões entre sistemas, automação e soluções.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#080d15"/>
+      <stop offset="1" stop-color="#10263c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#72d9dd"/>
+      <stop offset="1" stop-color="#7d9dff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#3379a8" stop-opacity=".54"/>
+      <stop offset="1" stop-color="#3379a8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#6b9fc0" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <circle cx="1010" cy="148" r="260" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1278" height="318" rx="19" fill="none" stroke="#638eaa" stroke-opacity=".55"/>
+  <rect x="70" y="64" width="9" height="9" rx="4.5" fill="#72d9dd"/>
+  <text x="96" y="73" fill="#91c8d8" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">RPA  /  AUTOMATION  /  INTEGRATION</text>
+  <text x="68" y="170" fill="#f0f6fb" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-3">Mateus Sipaúba</text>
+  <rect x="70" y="197" width="255" height="4" rx="2" fill="url(#accent)"/>
+  <text x="70" y="244" fill="#b9cbd7" font-family="Arial, sans-serif" font-size="23">Sistemas, dados e automação para problemas reais.</text>
+  <g stroke="#81c7da" stroke-opacity=".58" stroke-width="2" fill="none">
+    <path d="M832 160H976M1050 160h113"/>
+    <path d="M1014 125V73M1014 196v53"/>
+  </g>
+  <g fill="#10283a" stroke="#81c7da" stroke-width="2">
+    <rect x="745" y="127" width="87" height="66" rx="13"/>
+    <rect x="976" y="125" width="74" height="70" rx="20"/>
+    <rect x="1163" y="127" width="75" height="66" rx="13"/>
+    <rect x="981" y="33" width="66" height="40" rx="12"/>
+    <rect x="981" y="249" width="66" height="40" rx="12"/>
+  </g>
+  <g fill="#d9f8fa" font-family="Arial, sans-serif" text-anchor="middle" font-weight="700">
+    <text x="788" y="168" font-size="17">DATA</text>
+    <text x="1013" y="167" font-size="24">✳</text>
+    <text x="1200" y="168" font-size="17">API</text>
+    <text x="1014" y="60" font-size="14">ERP</text>
+    <text x="1014" y="276" font-size="14">AI</text>
+  </g>
+  <circle cx="904" cy="160" r="5" fill="#72d9dd"/>
+  <circle cx="1110" cy="160" r="5" fill="#7d9dff"/>
+</svg>
